@@ -1,0 +1,17 @@
+import React from "react"
+
+//
+
+
+
+//
+
+export default class Seen extends React.Component {
+    render() {
+        return(
+            <>
+
+            </>
+        )
+    }
+}
